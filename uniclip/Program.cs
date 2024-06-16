@@ -60,6 +60,7 @@ namespace UniClip
                     try
                     {
                         DoConsoleInputandConverttoUTF8();
+                        SendMessageWindow.SendTexttoNotepad();
                     }
                     catch (Exception ex)
                     {
