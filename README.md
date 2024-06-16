@@ -2,7 +2,9 @@ UNICLIP v1.1.0615.611 Help
 
 DESCRIPTION 
 Copies and converts command line input text into UTF-8 'Unicode' and pastes it to the Windows clipboard.  
+
 Conversion using Mozilla Universal Charset Detector to convert input to UTF-8.
+
 LIMITATIONS
 There is still VERY limited support for Unicode in the CMD shell, piping, redirection and most 
 commands are still ANSI only! 
@@ -81,9 +83,9 @@ COMMON ERRORS
 dir > uniclip       Redirects dir command output to a file named uniclip. 
 file.txt > uniclip  Redirects file.txt output to a file named uniclip. 
 
-COPYRIGHT © 2024 Mark Pahulje (https://github.com/markpahulje/uniclip) Win 7+, launch into 
+COPYRIGHT Â© 2024 Mark Pahulje (https://github.com/markpahulje/uniclip) Win 7+, launch into 
 Notepad, reflow 
-Copyright © 2019 Aaron Meyers (https://github.com/bluemarsh/utf8clip) non-Win 7 compliant, not 
+Copyright Â© 2019 Aaron Meyers (https://github.com/bluemarsh/utf8clip) non-Win 7 compliant, not 
 working properly   
 
 LICENSE
