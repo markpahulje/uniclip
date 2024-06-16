@@ -1,8 +1,7 @@
 UNICLIP v1.1.0615.611 Help
 
 DESCRIPTION 
-Copies and converts command line input text into UTF-8 'Unicode' and pastes it to the Windows 
-clipboard.  
+Copies and converts command line input text into UTF-8 'Unicode' and pastes it to the Windows clipboard.  
 Conversion using Mozilla Universal Charset Detector to convert input to UTF-8.
 LIMITATIONS
 There is still VERY limited support for Unicode in the CMD shell, piping, redirection and most 
