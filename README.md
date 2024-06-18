@@ -34,7 +34,7 @@ paste onto clipboard.
 
 Default CMD.exe may not be set to display Unicode characters.
 To to display Unicode, change console code page using 'chcp 1200' Unicode for Win10+. Try 
-'chcp 65001' UTF-8 for Win 7+. 
+'chcp 65001' UTF-8 for Win 7. 
 
 See 
 https://learn.microsoft.com/en-us/dotnet/api/system.text.encodinginfo.getencoding?view=netframe 
