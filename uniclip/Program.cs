@@ -125,9 +125,6 @@ namespace UniClip
                         //'file.txt > uniclip' does not work, but commonly used 
                         //normally, this write file.txt into file named uniclip!
 
-                        Console.WriteLine("We are in Output");
-
-
                         Stream output = Console.OpenStandardOutput();
 
                         // StreamWriter will use UTF-8 encoding without byte order mark by default.
